@@ -118,18 +118,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## Acknowledgements
-
-- Inspired by the article ["Building a Multi-Agent System to Write a Book"](https://medium.com/@paras_madan) by Paras Madan.
-- Thanks to the developers and community of LangChain and OpenAI.
-
----
-
-## Contact
-
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
 
 ## Future Enhancements
 
